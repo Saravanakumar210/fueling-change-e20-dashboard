@@ -50,7 +50,7 @@ City-level and state-level data are shown side by side, not merged, because they
 
 ## Files in this repo
 
-- `Fueling_Change_Dashboard.pbix` - the full dashboard
+- `India_E20_Impact_Dashboard.pbix` - the full dashboard
 - `/data` - cleaned source CSVs used in the model
 - `/screenshots` - page-by-page images for anyone without Power BI Desktop installed
 
