@@ -1,0 +1,697 @@
+city,diesel,petrol,Petrol-Diesel Gap,Petrol Price Rank,Price Tier
+Adilabad,97.1,108.83,11.73,15,Very High
+Agar Malwa,92.73,107.41,14.68,64,Very High
+Agra,87.83,94.73,6.9,626,Low
+Ahmadnagar,90.95,104.43,13.48,229,High
+Ahmedabad,90.52,94.85,4.33,600,Low
+Aizawl,87.92,99.06,11.14,403,Moderate
+Ajmer,89.88,104.36,14.48,231,High
+Akola,91.02,104.47,13.45,225,High
+Alappuzha,94.73,105.75,11.02,163,Very High
+Aligarh,87.93,94.82,6.89,604,Low
+Alipurduar,92.68,105.93,13.25,155,Very High
+Alirajpur,93.4,108.0,14.6,36,Very High
+Allahabad,88.34,95.15,6.81,566,Low
+Almora,89.39,94.54,5.15,644,Low
+Alwar,90.37,104.92,14.55,213,High
+Ambala,88.55,95.72,7.17,518,Moderate
+Ambedkarnagar,88.67,95.51,6.84,534,Low
+Amethi Csm Nagar,88.33,95.16,6.83,564,Low
+Amravati,91.32,104.78,13.46,220,High
+Amreli,91.18,95.49,4.31,537,Low
+Amritsar,88.09,97.6,9.51,458,Moderate
+Amroha,88.55,95.39,6.84,548,Low
+Anand,90.02,94.35,4.33,653,Low
+Anantapur,96.92,109.04,12.12,10,Very High
+Anantnag,83.29,97.43,14.14,470,Moderate
+Angul,94.05,102.53,8.48,282,High
+Anupur,93.39,107.99,14.6,45,Very High
+Araria,93.8,106.94,13.14,88,Very High
+Aravalli,91.37,95.69,4.32,521,Moderate
+Ariyalur,93.65,102.05,8.4,300,High
+Arwal,92.63,105.81,13.18,160,Very High
+Ashoknagar,91.94,106.59,14.65,110,Very High
+Auraiya,88.16,95.0,6.84,580,Low
+Aurangabad,93.1,106.31,13.21,124,Very High
+Azamgarh,88.62,95.45,6.83,542,Low
+Badgam,84.82,99.63,14.81,377,Moderate
+Badwani,93.39,108.0,14.61,36,Very High
+Bagalkot,89.42,103.36,13.94,253,High
+Bageshwar,89.01,94.01,5.0,665,Low
+Baghpat,87.85,94.74,6.89,623,Low
+Bahraich,88.0,94.84,6.84,602,Low
+Baksa,89.72,98.5,8.78,428,Moderate
+Balaghat,93.39,107.99,14.6,45,Very High
+Baleshwar,92.74,101.15,8.41,344,High
+Ballia,88.65,95.49,6.84,537,Low
+Balod,94.0,101.07,7.07,349,Moderate
+Balodabazar,93.94,101.0,7.06,353,Moderate
+Balrampur,95.07,102.12,7.05,292,High
+Banas Kantha,90.22,94.53,4.31,645,Low
+Banda,88.54,95.37,6.83,551,Low
+Bandipora,85.26,100.11,14.85,367,Moderate
+Bangalore,88.99,102.92,13.93,262,High
+Bangalore Rural,88.73,102.63,13.9,271,High
+Banka,93.08,106.31,13.23,124,Very High
+Bankura,92.07,105.27,13.2,196,High
+Banswara,91.5,106.14,14.64,142,Very High
+Barabanki,88.13,94.96,6.83,586,Low
+Baramullah,85.53,100.43,14.9,361,Moderate
+Baran,90.49,105.05,14.56,205,High
+Bareilly,88.07,94.92,6.85,590,Low
+Bargarh,93.64,102.08,8.44,297,High
+Barmer,91.73,106.21,14.48,133,Very High
+Barnala,87.47,96.97,9.5,485,Moderate
+Barpeta,90.14,98.94,8.8,406,Moderate
+Bastar,95.06,102.11,7.05,293,High
+Basti,88.56,95.39,6.83,548,Low
+Bathinda,87.7,97.21,9.51,475,Moderate
+Begusarai,91.9,105.05,13.15,205,High
+Belgaum,89.63,103.59,13.96,248,High
+Bellary,90.02,104.0,13.98,242,High
+Bemetara,94.09,101.15,7.06,344,High
+Betul,92.7,107.4,14.7,65,Very High
+Bhadradri Kothagudem,96.99,108.83,11.84,15,Very High
+Bhadrak,93.43,101.87,8.44,305,High
+Bhagalpur,93.38,106.63,13.25,107,Very High
+Bhandara,91.41,104.88,13.47,217,High
+Bharatpur,90.09,104.61,14.52,222,High
+Bharuch,90.62,94.95,4.33,588,Low
+Bhavnagar,91.78,96.1,4.32,505,Moderate
+Bhilwara,90.8,105.39,14.59,191,High
+Bhind,92.33,106.99,14.66,83,Very High
+Bhiwani,88.27,95.44,7.17,544,Low
+Bhojpur,92.87,106.06,13.19,147,Very High
+Bhopal,91.68,106.28,14.6,127,Very High
+Bid,92.03,105.5,13.47,175,High
+Bidar,89.5,103.46,13.96,251,High
+Bijapur,95.06,102.08,7.02,297,High
+Bijnor,87.79,94.68,6.89,634,Low
+Bikaner,91.73,106.2,14.47,139,Very High
+Bilaspur,94.03,101.09,7.06,348,High
+Birbhum,92.71,105.97,13.26,152,Very High
+Bishnupur,85.49,99.45,13.96,387,Moderate
+Biswanath,90.73,99.52,8.79,383,Moderate
+Bokaro,92.84,98.09,5.25,446,Moderate
+Bolangir,94.2,102.63,8.43,271,High
+Bongaigaon,89.39,98.17,8.78,443,Moderate
+Botad,91.44,95.76,4.32,517,Moderate
+Boudh,94.2,102.63,8.43,271,High
+Budaun,87.73,94.63,6.9,640,Low
+Bulandshahr,88.29,95.16,6.87,564,Low
+Buldhana,91.9,105.38,13.48,192,High
+Bundi,90.79,105.38,14.59,192,High
+Burhanpur,93.4,108.0,14.6,36,Very High
+Buxar,93.32,106.54,13.22,114,Very High
+Cachar,90.1,98.85,8.75,417,Moderate
+Central Delhi,87.67,94.77,7.1,614,Low
+Chamba,87.35,94.92,7.57,590,Low
+Chamoli,89.36,94.47,5.11,648,Low
+Champawat,88.42,93.45,5.03,670,Low
+Champhai,88.58,99.55,10.97,382,Moderate
+Chamrajnagar,89.15,103.09,13.94,259,High
+Chandauli,87.77,94.65,6.88,638,Low
+Chandel,85.68,99.67,13.99,375,Moderate
+Chandigarh,82.45,94.3,11.85,659,Low
+Chandrapur,91.02,104.46,13.44,226,High
+Changlang,82.2,92.66,10.46,680,Low
+Charaideo,90.14,98.94,8.8,406,Moderate
+Charki Dadri,88.3,95.45,7.15,542,Low
+Chatra,93.92,99.17,5.25,397,Moderate
+Chennai,92.48,100.9,8.42,354,Moderate
+Chhatarpur,93.18,107.93,14.75,50,Very High
+Chhindware,93.4,108.0,14.6,36,Very High
+Chhotaudepur,90.9,95.23,4.33,560,Low
+Chikkaballapura,88.99,102.92,13.93,262,High
+Chikmagalur,89.21,103.19,13.98,257,High
+Chirang,89.39,98.17,8.78,443,Moderate
+Chitradurga,90.24,104.14,13.9,234,High
+Chitrakut,88.72,95.55,6.83,530,Low
+Chittaurgarh,90.11,104.6,14.49,224,High
+Chittoor,98.22,110.34,12.12,1,Very High
+Churachandpur,85.3,99.25,13.95,394,Moderate
+Churu,91.57,106.2,14.63,139,Very High
+Coimbatore,92.83,101.23,8.4,340,High
+Cooch Bihar,92.84,106.11,13.27,144,Very High
+Cuddalore,94.39,102.8,8.41,264,High
+Cuddapah,96.84,108.98,12.14,11,Very High
+Cuttack,92.88,101.31,8.43,338,High
+Dahod,91.17,95.49,4.32,537,Low
+Dakshin Dinajpur,91.96,105.17,13.21,201,High
+Dakshin Kannad,88.46,102.37,13.91,285,High
+Daman,87.87,92.37,4.5,690,Low
+Damoh,92.5,107.19,14.69,72,Very High
+Dantewada,95.06,102.09,7.03,295,High
+Darbhanga,92.83,106.04,13.21,148,Very High
+Darjeeling,91.8,105.0,13.2,208,High
+Darrang,90.12,98.91,8.79,410,Moderate
+Datia,92.3,106.97,14.67,85,Very High
+Dausa,90.87,105.48,14.61,183,High
+Davangere,90.23,104.13,13.9,235,High
+Dehradun,88.33,93.43,5.1,671,Low
+Delhi Shahdara,87.67,94.77,7.1,614,Low
+Deogarh,92.29,97.6,5.31,458,Moderate
+Deoria,87.67,94.58,6.91,641,Low
+Devbhumi Dwarka,89.96,94.29,4.33,660,Low
+Dewas,92.41,107.06,14.65,81,Very High
+Dhalai,85.77,96.7,10.93,491,Moderate
+Dhamtari,93.83,100.89,7.06,355,Moderate
+Dhanbad,92.93,98.17,5.24,443,Moderate
+Dhar,92.81,107.52,14.71,61,Very High
+Dharmapuri,93.85,102.27,8.42,288,High
+Dharwad,88.83,102.72,13.89,267,High
+Dhaulpur,90.39,104.94,14.55,212,High
+Dhemaji,90.91,99.73,8.82,372,Moderate
+Dhenkanal,93.46,101.91,8.45,303,High
+Dhuburi,90.13,98.93,8.8,408,Moderate
+Dhule,91.33,104.82,13.49,219,High
+Dibang Valley,82.21,92.66,10.45,680,Low
+Dibrugarh,89.79,98.56,8.77,425,Moderate
+Dima Hasao,91.27,100.04,8.77,369,Moderate
+Dimapur,88.0,96.66,8.66,495,Moderate
+Dindigul,93.05,101.44,8.39,331,High
+Dindori,93.4,108.0,14.6,36,Very High
+Diu,88.88,93.4,4.52,672,Low
+Doda,83.34,97.51,14.17,463,Moderate
+Dumka,93.28,98.56,5.28,425,Moderate
+Dungarpur,91.73,106.21,14.48,133,Very High
+Durg,93.65,100.71,7.06,356,Moderate
+East Champaran,93.3,106.52,13.22,115,Very High
+East Delhi,87.67,94.77,7.1,614,Low
+East District,89.0,101.75,12.75,317,High
+East Garo Hills,87.09,95.62,8.53,524,Low
+East Godavari,97.24,109.4,12.16,8,Very High
+East Imphal,85.26,99.21,13.95,395,Moderate
+East Jaintia Hills,87.34,95.97,8.63,509,Moderate
+East Khameng,82.08,92.8,10.72,675,Low
+East Khasi Hills,87.47,96.25,8.78,500,Moderate
+East Siang,82.21,92.66,10.45,680,Low
+East Singhbhum,93.05,98.31,5.26,434,Moderate
+Ernakulam,94.48,105.49,11.01,181,High
+Erode,92.99,101.38,8.39,334,High
+Etah,87.84,94.75,6.91,621,Low
+Etawah,88.28,95.13,6.85,567,Low
+Faizabad,88.26,95.07,6.81,571,Low
+Faridabad,88.4,95.56,7.16,528,Low
+Faridkot,87.54,97.04,9.5,480,Moderate
+Farrukkhabad,88.16,94.99,6.83,582,Low
+Fatehabad,88.96,96.14,7.18,504,Moderate
+Fatehgarh Sahib,87.87,97.38,9.51,472,Moderate
+Fatehpur,88.54,95.38,6.84,550,Low
+Fazilka,87.94,97.46,9.52,468,Moderate
+Firozabad,87.35,94.32,6.97,656,Low
+Firozpur,87.82,97.33,9.51,473,Moderate
+Gadag,89.86,103.85,13.99,246,High
+Gadchiroli,91.44,104.9,13.46,215,High
+Gajapati,94.2,102.63,8.43,271,High
+Ganderbal,85.3,100.15,14.85,365,Moderate
+Gandhi Nagar,90.38,94.7,4.32,629,Low
+Ganganagar,91.72,106.21,14.49,133,Very High
+Ganjam,94.1,102.58,8.48,279,High
+Garhwa,94.29,99.6,5.31,379,Moderate
+Gariyaband,94.0,101.06,7.06,351,Moderate
+Gautam Budh Nagar,88.19,95.05,6.86,574,Low
+Gaya,93.02,106.22,13.2,129,Very High
+Ghaziabad,88.6,95.4,6.8,546,Low
+Ghazipur,89.17,96.05,6.88,507,Moderate
+Gir Somnath,91.53,95.83,4.3,512,Moderate
+Giridih,92.96,98.21,5.25,439,Moderate
+Goalpara,90.28,99.08,8.8,402,Moderate
+Godda,93.05,98.33,5.28,433,Moderate
+Golaghat,89.43,98.2,8.77,440,Moderate
+Gomati,87.1,97.97,10.87,447,Moderate
+Gonda,87.91,94.77,6.86,614,Low
+Gondia,91.95,105.44,13.49,189,High
+Gopalganj,93.65,106.9,13.25,94,Very High
+Gorakhpur,88.23,95.06,6.83,572,Low
+Greater Mumbai,90.2,103.68,13.48,247,High
+Gulbarga,89.53,103.48,13.95,250,High
+Gumla,93.67,98.92,5.25,409,Moderate
+Guna,93.17,107.94,14.77,49,Very High
+Guntur,97.59,109.75,12.16,4,Very High
+Gurdaspur,87.98,97.48,9.5,466,Moderate
+Gurgaon,87.82,94.96,7.14,586,Low
+Gwalior,92.51,107.19,14.68,72,Very High
+Hailakandi,90.16,98.91,8.75,410,Moderate
+Hamirpur,86.09,93.75,7.66,667,Low
+Hanumangarh,91.72,106.2,14.48,139,Very High
+Hapur,87.8,94.7,6.9,629,Low
+Harda,92.08,106.72,14.64,102,Very High
+Hardoi,88.4,95.22,6.82,561,Low
+Haridwar,87.63,92.78,5.15,676,Low
+Hassan,89.21,103.36,14.15,253,High
+Hathras,87.57,94.51,6.94,647,Low
+Haveri,89.44,103.38,13.94,252,High
+Hazaribagh,93.62,98.87,5.25,414,Moderate
+Hingoli,92.03,105.5,13.47,175,High
+Hisar,88.51,95.68,7.17,522,Moderate
+Hojai,90.35,99.12,8.77,400,Moderate
+Hooghly,92.33,105.56,13.23,167,Very High
+Hoshangabad,91.99,106.62,14.63,109,Very High
+Hoshiarpur,87.68,97.17,9.49,476,Moderate
+Howrah,92.02,105.23,13.21,198,High
+Hyderabad,95.7,107.46,11.76,62,Very High
+Idukki,96.33,107.61,11.28,57,Very High
+Indore,91.81,106.41,14.6,121,Very High
+Jabalpur,92.18,106.81,14.63,99,Very High
+Jagatsinghpur,92.2,100.63,8.43,357,Moderate
+Jagitial,96.21,108.02,11.81,29,Very High
+Jahanabad,92.47,105.64,13.17,165,Very High
+Jahbua,92.25,106.9,14.65,94,Very High
+Jaipur,90.53,105.07,14.54,203,High
+Jaisalmer,91.7,106.21,14.51,133,Very High
+Jajpur,92.97,101.42,8.45,332,High
+Jalandhar,87.38,96.87,9.49,489,Moderate
+Jalaun,88.2,95.05,6.85,574,Low
+Jalgaon,90.67,104.12,13.45,236,High
+Jalna,92.03,105.5,13.47,175,High
+Jalor,91.73,106.21,14.48,133,Very High
+Jalpaiguri,92.01,105.23,13.22,198,High
+Jammu,81.32,95.48,14.16,540,Low
+Jamnagar,90.06,94.39,4.33,651,Low
+Jamtara,93.16,98.44,5.28,430,Moderate
+Jamui,93.45,106.71,13.26,103,Very High
+Jangaon,95.79,107.57,11.78,58,Very High
+Janjgir,93.56,100.61,7.05,359,Moderate
+Jashpur,94.61,101.67,7.06,323,High
+Jaunpur,88.97,95.82,6.85,513,Moderate
+Jayashankar Bhupalpa,95.38,107.13,11.75,75,Very High
+Jhajjar,88.13,95.28,7.15,558,Low
+Jhalawar,90.7,105.28,14.58,194,High
+Jhansi,88.16,95.01,6.85,579,Low
+Jhargram,92.55,105.83,13.28,159,Very High
+Jharsuguda,92.72,101.13,8.41,346,High
+Jhunjhunun,91.73,106.2,14.47,139,Very High
+Jind,88.14,95.31,7.17,556,Low
+Jiribam,87.09,101.15,14.06,344,High
+Jodhpur,90.12,104.61,14.49,222,High
+Jogulamba Gadwal,97.1,108.83,11.73,15,Very High
+Jorhat,90.11,98.9,8.79,412,Moderate
+Junagadh,91.21,95.52,4.31,531,Low
+Kaimur,93.72,106.94,13.22,88,Very High
+Kaithal,87.74,94.9,7.16,593,Low
+Kakching,85.54,99.51,13.97,384,Moderate
+Kalahandi,94.2,102.62,8.42,277,High
+Kalimpong,91.76,104.95,13.19,211,High
+Kamareddy,96.67,108.52,11.85,24,Very High
+Kamrup,89.68,98.46,8.78,429,Moderate
+Kamrup Metro,89.42,98.19,8.77,441,Moderate
+Kanchipuram,93.11,101.54,8.43,326,High
+Kandhamal,94.2,102.63,8.43,271,High
+Kangpokpi,85.59,99.57,13.98,381,Moderate
+Kangra,86.07,93.7,7.63,668,Low
+Kanker,94.83,101.91,7.08,303,High
+Kanniyakumari,93.42,101.8,8.38,312,High
+Kannuaj,88.51,95.34,6.83,553,Low
+Kannur,94.9,105.9,11.0,156,Very High
+Kanpur Rural,87.65,94.56,6.91,642,Low
+Kanpur Urban,87.78,94.67,6.89,636,Low
+Kapurthala,87.42,96.9,9.48,487,Moderate
+Karaikal,86.31,96.03,9.72,508,Moderate
+Karauli,90.43,104.99,14.56,209,High
+Karbi Anglong,90.22,98.99,8.77,405,Moderate
+Karim Nagar,95.38,107.13,11.75,75,Very High
+Karimganj,90.44,99.2,8.76,396,Moderate
+Karnal,87.54,94.72,7.18,628,Low
+Karur,93.28,101.68,8.4,321,High
+Kasaragod,95.58,106.63,11.05,107,Very High
+Kashi Ram Nagar,88.13,94.99,6.86,582,Low
+Kathua,81.75,95.94,14.19,510,Moderate
+Katihar,93.75,106.94,13.19,88,Very High
+Katni,92.88,107.57,14.69,58,Very High
+Kaushambi,88.07,94.9,6.83,593,Low
+Kawardha,94.53,101.6,7.07,324,High
+Kendrapara,92.75,101.2,8.45,342,High
+Keonjhar,93.88,102.37,8.49,285,High
+Khagaria,92.28,105.45,13.17,187,High
+Khammam,96.83,108.7,11.87,20,Very High
+Khandwa,93.4,108.0,14.6,36,Very High
+Khargone,93.23,107.96,14.73,47,Very High
+Kheda,90.42,94.74,4.32,623,Low
+Khordha,92.69,101.11,8.42,347,High
+Khowai,86.15,97.1,10.95,478,Moderate
+Khunti,92.69,97.92,5.23,449,Moderate
+Kinnaur,87.25,94.77,7.52,614,Low
+Kiphere,89.98,98.66,8.68,421,Moderate
+Kishanganj,93.79,106.94,13.15,88,Very High
+Kishtwar,83.34,97.5,14.16,465,Moderate
+Kodagu,90.09,104.08,13.99,237,High
+Koderma,93.41,98.7,5.29,419,Moderate
+Kohima,88.24,96.9,8.66,487,Moderate
+Kokrajhar,89.6,98.38,8.78,432,Moderate
+Kolar,89.12,103.06,13.94,260,High
+Kolasib,86.62,97.61,10.99,456,Moderate
+Kolhapur,90.99,104.44,13.45,228,High
+Kolkata,91.82,105.01,13.19,207,High
+Kollam,96.0,107.1,11.1,77,Very High
+Komram Bheem Asifaba,97.1,108.83,11.73,15,Very High
+Kondagaon,94.76,101.83,7.07,309,High
+Koppal,90.06,104.05,13.99,238,High
+Koraput,94.19,102.63,8.44,271,High
+Korba,93.33,100.38,7.05,362,Moderate
+Koria,94.76,101.83,7.07,309,High
+Kota,90.25,104.78,14.53,220,High
+Kottayam,94.86,105.88,11.02,157,Very High
+Kozhikode,94.78,105.78,11.0,161,Very High
+Krishna,97.33,109.47,12.14,7,Very High
+Krishnagiri,93.89,102.3,8.41,287,High
+Kulgam,83.38,97.56,14.18,460,Moderate
+Kullu,87.32,94.89,7.57,595,Low
+Kupwara,85.48,100.38,14.9,362,Moderate
+Kurnool,97.44,109.6,12.16,5,Very High
+Kurukshetra,88.24,95.4,7.16,546,Low
+Kushinagar,88.01,94.87,6.86,597,Low
+Kutch,89.99,94.32,4.33,656,Low
+Lahul Spiti,86.97,94.34,7.37,654,Low
+Lakhimpur,91.2,100.0,8.8,370,Moderate
+Lalitpur,88.66,95.51,6.85,534,Low
+Latehar,93.85,99.1,5.25,401,Moderate
+Latur,92.03,105.5,13.47,175,High
+Lawngtlai,88.52,99.46,10.94,385,Moderate
+Lohardaga,93.5,98.75,5.25,418,Moderate
+Lohit,82.2,92.66,10.46,680,Low
+Longding,82.08,92.65,10.57,683,Low
+Longleng,89.92,98.58,8.66,424,Moderate
+Lower Dibang Valley,82.14,92.55,10.41,685,Low
+Lower Subansiri,81.21,91.93,10.72,692,Low
+Luckeesarai,92.8,106.01,13.21,150,Very High
+Lucknow,87.81,94.69,6.88,631,Low
+Ludhiana,87.76,97.27,9.51,474,Moderate
+Lunglei,88.49,99.4,10.91,389,Moderate
+Madhepura,93.04,106.27,13.23,128,Very High
+Madhubani,93.33,106.57,13.24,111,Very High
+Madurai,92.98,101.36,8.38,336,High
+Mahabubabad,95.53,107.29,11.76,69,Very High
+Maharajganj,88.64,95.48,6.84,540,Low
+Mahasamund,94.41,101.48,7.07,329,High
+Mahe,83.9,93.92,10.02,666,Low
+Mahendragarh,87.98,95.12,7.14,569,Low
+Mahisagar,90.62,94.94,4.32,589,Low
+Mahoba,88.9,95.77,6.87,515,Moderate
+Mainpuri,88.23,95.08,6.85,570,Low
+Majuli,91.33,100.11,8.78,367,Moderate
+Malappuram,95.77,106.85,11.08,97,Very High
+Malda,91.72,104.9,13.18,215,High
+Malkangiri,94.19,102.63,8.44,271,High
+Mamit,87.6,98.68,11.08,420,Moderate
+Mancherial,96.66,108.5,11.84,25,Very High
+Mandi,86.54,94.2,7.66,663,Low
+Mandla,93.08,107.79,14.71,53,Very High
+Mandsaur,92.42,107.08,14.66,79,Very High
+Mandya,89.22,103.17,13.95,258,High
+Mansa,87.5,96.99,9.49,482,Moderate
+Mathura,87.21,94.21,7.0,662,Low
+Maunathbhanjan,88.86,95.72,6.86,518,Moderate
+Mayurbhanj,93.29,101.72,8.43,320,High
+Medak,96.2,108.0,11.8,36,Very High
+Medchal Malkajgiri,95.7,107.46,11.76,62,Very High
+Meerut,87.86,94.74,6.88,623,Low
+Mehabubnagar,96.43,108.24,11.81,27,Very High
+Mehsana,90.07,94.37,4.3,652,Low
+Mewat,88.36,95.51,7.15,534,Low
+Mirzapur,87.98,94.83,6.85,603,Low
+Moga,88.08,97.6,9.52,458,Moderate
+Mokokchung,89.74,98.3,8.56,435,Moderate
+Mon,89.56,98.23,8.67,438,Moderate
+Moradabad,88.18,95.02,6.84,577,Low
+Morbi,90.74,95.05,4.31,574,Low
+Morena,91.81,106.43,14.62,119,Very High
+Morigaon,89.87,98.65,8.78,422,Moderate
+Muktsar,87.57,97.07,9.5,479,Moderate
+Mulugu,95.34,107.09,11.75,78,Very High
+Mumbai City,90.03,103.5,13.47,249,High
+Mungeli,94.41,101.48,7.07,329,High
+Munger,92.3,105.47,13.17,184,High
+Murshidabad,92.86,106.13,13.27,143,Very High
+Muzaffarnagar,87.75,94.65,6.9,638,Low
+Muzaffarpur,92.99,106.21,13.22,133,Very High
+Mysore,88.58,102.46,13.88,283,High
+Nabarangapur,94.2,102.63,8.43,271,High
+Nadia,93.13,106.31,13.18,124,Very High
+Nagaon,90.37,99.17,8.8,397,Moderate
+Nagapattinam,93.85,102.25,8.4,290,High
+Nagarkurnool,96.88,108.73,11.85,19,Very High
+Nagaur,90.71,105.28,14.57,194,High
+Nagpur,90.6,104.04,13.44,239,High
+Nainital,87.64,92.77,5.13,677,Low
+Nalanda,92.81,106.0,13.19,151,Very High
+Nalbari,90.06,98.86,8.8,415,Moderate
+Nalgonda,96.1,107.9,11.8,51,Very High
+Namakkal,93.0,101.39,8.39,333,High
+Namsai,82.2,92.66,10.46,680,Low
+Nanded,92.03,105.5,13.47,175,High
+Nandurbar,91.48,104.97,13.49,210,High
+Narayanpet,96.83,108.67,11.84,21,Very High
+Narmada,90.53,94.86,4.33,599,Low
+Narsimhapur,92.34,106.99,14.65,83,Very High
+Nashik,90.83,104.31,13.48,232,High
+Navsari,90.49,94.8,4.31,605,Low
+Nawada,92.88,106.07,13.19,146,Very High
+Nayagarh,93.04,101.48,8.44,329,High
+Neemach,93.06,107.78,14.72,54,Very High
+Nellore,97.82,110.06,12.24,2,Very High
+New Delhi,87.67,94.77,7.1,614,Low
+Nicobar,78.05,82.46,4.41,695,Low
+Nilgiris,94.38,102.78,8.4,266,High
+Nirmal,97.1,108.83,11.73,15,Very High
+Nizamabad,97.1,108.83,11.73,15,Very High
+Noney,85.68,99.67,13.99,375,Moderate
+North 24 Parganas,92.35,105.58,13.23,166,Very High
+North And Middle Andaman,78.05,82.46,4.41,695,Low
+North Delhi,87.67,94.77,7.1,614,Low
+North District,89.0,101.75,12.75,317,High
+North East Delhi,87.67,94.77,7.1,614,Low
+North Garo Hills,86.49,95.02,8.53,577,Low
+North Goa,88.45,96.69,8.24,493,Moderate
+North Tripura,85.38,96.27,10.89,498,Moderate
+North West Delhi,87.67,94.77,7.1,614,Low
+Nuaparha,94.2,102.62,8.42,277,High
+Osmanabad,91.72,105.21,13.49,200,High
+Pakur,93.74,99.03,5.29,404,Moderate
+Palakkad,95.85,106.94,11.09,88,Very High
+Palamau,94.29,99.6,5.31,379,Moderate
+Palghar,90.73,104.23,13.5,233,High
+Pali,90.89,105.46,14.57,185,High
+Palwal,88.46,95.61,7.15,526,Low
+Panch Mahal,90.35,94.68,4.33,634,Low
+Panchkula,88.7,95.88,7.18,511,Moderate
+Panipat,87.55,94.74,7.19,623,Low
+Panna,93.32,108.0,14.68,36,Very High
+Papumpare,80.47,90.95,10.48,693,Low
+Parbhani,92.03,105.49,13.46,181,High
+Paschim Bardhaman,92.05,105.26,13.21,197,High
+Paschim Medinipur,92.16,105.41,13.25,190,High
+Patan,90.38,94.69,4.31,631,Low
+Pathananthitta,95.44,106.51,11.07,116,Very High
+Pathankot,88.36,97.88,9.52,450,Moderate
+Patiala,87.52,97.02,9.5,481,Moderate
+Patna,92.92,106.11,13.19,144,Very High
+Pauri,88.42,93.47,5.05,669,Low
+Peddapalli,96.1,107.9,11.8,51,Very High
+Perambalur,93.43,101.83,8.4,309,High
+Peren,88.33,96.99,8.66,482,Moderate
+Phek,89.88,98.51,8.63,427,Moderate
+Pilibhit,88.71,95.56,6.85,528,Low
+Pithoragarh,89.41,94.55,5.14,643,Low
+Pondicherry,86.47,96.26,9.79,499,Moderate
+Poonch,83.31,97.47,14.16,467,Moderate
+Porbander,90.67,94.99,4.32,582,Low
+Prakasam,96.51,108.62,12.11,22,Very High
+Pratapgarh,90.87,105.45,14.58,187,High
+Pudukkottai,93.43,101.83,8.4,309,High
+Pulwama,84.82,99.63,14.81,377,Moderate
+Pune,90.57,104.04,13.47,239,High
+Purba Bardhaman,92.24,105.45,13.21,187,High
+Purba Medinipur,91.83,105.06,13.23,204,High
+Puri,92.64,101.06,8.42,351,Moderate
+Purnia,93.46,106.71,13.25,103,Very High
+Purulia,93.09,106.31,13.22,124,Very High
+Rae Bareli,88.37,95.2,6.83,562,Low
+Raichur,89.08,102.97,13.89,261,High
+Raigarh,94.62,101.68,7.06,321,High
+Raipur,93.39,100.45,7.06,360,Moderate
+Raisen,92.04,106.69,14.65,105,Very High
+Rajanna Sircilla,96.31,108.13,11.82,28,Very High
+Rajgarh,91.92,106.55,14.63,112,Very High
+Rajkot,90.54,94.85,4.31,600,Low
+Rajnandgaon,94.16,101.23,7.07,340,High
+Rajouri,82.72,96.98,14.26,484,Moderate
+Rajsamand,90.93,105.51,14.58,170,Very High
+Ramanagara,89.32,103.27,13.95,256,High
+Ramanathapuram,93.47,101.86,8.39,306,High
+Ramban,83.04,97.51,14.47,463,Moderate
+Ramgarh,93.18,98.42,5.24,431,Moderate
+Rampur,87.92,94.79,6.87,607,Low
+Ranchi,92.62,97.86,5.24,452,Moderate
+Rangareddi,96.17,107.96,11.79,47,Very High
+Ratlam,92.27,106.93,14.66,92,Very High
+Ratnagiri,92.03,105.5,13.47,175,High
+Rayagada,94.2,102.62,8.42,277,High
+Reasi,82.35,96.79,14.44,490,Moderate
+Rewa,93.4,108.0,14.6,36,Very High
+Rewari,87.56,94.73,7.17,626,Low
+Ri Bhoi,85.81,94.34,8.53,654,Low
+Rohtak,88.13,95.3,7.17,557,Low
+Rohtas,93.53,106.76,13.23,100,Very High
+Rudraprayag,89.39,94.52,5.13,646,Low
+Rupnagar,88.11,97.62,9.51,455,Moderate
+Sabar Kantha,91.45,95.77,4.32,515,Moderate
+Sagar,92.02,106.66,14.64,106,Very High
+Saharanpur,88.59,95.43,6.84,545,Low
+Saharsa,92.75,105.96,13.21,153,Very High
+Sahibganj,94.08,99.36,5.28,392,Moderate
+Saiha,88.47,99.37,10.9,391,Moderate
+Salem,93.65,102.06,8.41,299,High
+Samastipur,92.37,105.55,13.18,168,Very High
+Samba,81.32,95.48,14.16,540,Low
+Sambalpur,93.34,101.77,8.43,315,High
+Sambhal,88.01,94.87,6.86,597,Low
+Sangareddy,95.94,107.72,11.78,55,Very High
+Sangli,90.59,104.02,13.43,241,High
+Sangrur,87.19,96.69,9.5,493,Moderate
+Sant Kabir Nagar,88.14,94.98,6.84,585,Low
+Sant Ravi Nagar,88.31,95.13,6.82,567,Low
+Saraikela Kharasawan,92.55,97.8,5.25,454,Moderate
+Saran,92.85,106.04,13.19,148,Very High
+Sas Nagar,88.35,97.88,9.53,450,Moderate
+Satara,91.62,105.13,13.51,202,High
+Satna,93.4,108.0,14.6,36,Very High
+Sawaimadhopur,91.3,105.96,14.66,153,Very High
+Sehore,91.82,106.44,14.62,118,Very High
+Senapati,86.14,100.17,14.03,364,Moderate
+Seoni,92.63,107.3,14.67,68,Very High
+Sepahijhala,86.83,97.83,11.0,453,Moderate
+Serchhip,88.51,99.45,10.94,387,Moderate
+Sewan,93.25,106.46,13.21,117,Very High
+Shahdol,93.39,107.99,14.6,45,Very High
+Shahjahanpur,87.94,94.8,6.86,605,Low
+Shajapur,92.85,107.54,14.69,60,Very High
+Shamli,88.05,94.91,6.86,592,Low
+Shd Bhagat Singh Ngr,87.89,97.39,9.5,471,Moderate
+Sheikhpura,93.1,106.31,13.21,124,Very High
+Sheohar,93.31,106.55,13.24,112,Very High
+Sheopur,93.4,108.0,14.6,36,Very High
+Shimla,86.94,94.65,7.71,638,Low
+Shimoga,89.91,103.97,14.06,244,High
+Shivpuri,93.41,108.0,14.59,36,Very High
+Shopian,83.29,97.44,14.15,469,Moderate
+Shravasti,88.55,95.36,6.81,552,Low
+Sibsagar,90.65,99.46,8.81,385,Moderate
+Siddipet,95.51,107.27,11.76,70,Very High
+Sidharthnagar,88.8,95.65,6.85,523,Low
+Sidhi,93.4,108.0,14.6,36,Very High
+Sikar,90.96,105.55,14.59,168,Very High
+Simdega,93.61,98.86,5.25,415,Moderate
+Sindhudurg,92.03,105.5,13.47,175,High
+Singrauli,92.14,106.74,14.6,101,Very High
+Sirmaur,86.76,94.43,7.67,650,Low
+Sirohi,91.73,106.21,14.48,133,Very High
+Sirsa,89.02,96.21,7.19,502,Moderate
+Sitamarhi,93.57,106.83,13.26,98,Very High
+Sitapur,88.73,95.58,6.85,527,Low
+Sivaganga,93.61,102.0,8.39,301,High
+Solan,86.61,94.28,7.67,661,Low
+Solapur,91.0,104.46,13.46,226,High
+Sonapur,94.11,102.57,8.46,280,High
+Sonbhadra,88.51,95.32,6.81,554,Low
+Sonipat,87.72,94.88,7.16,596,Low
+Sonitpur,89.87,98.62,8.75,423,Moderate
+South 24 Parganas,92.27,105.49,13.22,181,High
+South Andaman,78.05,82.46,4.41,695,Low
+South Delhi,87.67,94.77,7.1,614,Low
+South District,89.0,101.75,12.75,317,High
+South East Delhi,87.67,94.77,7.1,614,Low
+South Garo Hills,87.28,95.82,8.54,513,Moderate
+South Goa,88.2,96.43,8.23,496,Moderate
+South Tripura,87.1,97.97,10.87,447,Moderate
+South West Delhi,87.67,94.77,7.1,614,Low
+Southwest Khasi Hils,87.81,96.33,8.52,497,Moderate
+Srikakulam,97.14,109.33,12.19,9,Very High
+Srinagar,84.88,99.7,14.82,373,Moderate
+Sukma,95.06,102.09,7.03,295,High
+Sultanpur,89.16,96.17,7.01,503,Moderate
+Sundargarh,93.75,102.19,8.44,291,High
+Supaul,93.18,106.42,13.24,120,Very High
+Surajpur,94.01,101.07,7.06,349,Moderate
+Surat,90.75,95.05,4.3,574,Low
+Surendranagar,90.86,95.19,4.33,563,Low
+Surguja,94.51,101.58,7.07,325,High
+Suryapet,95.46,107.22,11.76,71,Very High
+Tamenglong,86.55,100.63,14.08,357,Moderate
+Tapi,90.68,94.99,4.31,582,Low
+Tarn Taran,88.02,97.53,9.51,461,Moderate
+Tawang,82.13,92.54,10.41,686,Low
+Tehri Garhwal,89.28,94.31,5.03,658,Low
+Tengnoupal,86.1,100.13,14.03,366,Moderate
+Teni,93.53,101.93,8.4,302,High
+Thane,90.86,104.37,13.51,230,High
+Thanjavur,93.39,101.78,8.39,313,High
+The Dangs,91.01,95.32,4.31,554,Low
+Thiruvananthapuram,96.28,107.4,11.12,65,Very High
+Thiruvarur,93.69,102.1,8.41,294,High
+Thoubal,85.43,99.39,13.96,390,Moderate
+Thrissur,94.75,105.77,11.02,162,Very High
+Tikamgarh,92.63,107.34,14.71,67,Very High
+Tinsukia,89.38,98.16,8.78,445,Moderate
+Tirap,82.1,92.48,10.38,687,Low
+Tiruchchirappalli,92.88,101.26,8.38,339,High
+Tirunelveli,93.01,101.37,8.36,335,High
+Tirupur,93.37,101.78,8.41,313,High
+Tiruvallur,92.89,101.32,8.43,337,High
+Tiruvannamalai,94.09,102.55,8.46,281,High
+Tonk,91.24,105.86,14.62,158,Very High
+Tuensang,89.71,98.26,8.55,436,Moderate
+Tumkur,89.96,103.98,14.02,243,High
+Tuticorin,93.15,101.54,8.39,326,High
+Udaipur,91.73,106.21,14.48,133,Very High
+Udalguri,90.08,98.88,8.8,413,Moderate
+Udham Singh Nagar,88.03,93.11,5.08,674,Low
+Udhampur,82.27,96.7,14.43,491,Moderate
+Udupi,88.49,102.41,13.92,284,High
+Ujjain,92.35,106.99,14.64,83,Very High
+Ukhrul,85.94,99.95,14.01,371,Moderate
+Umaria,93.4,108.0,14.6,36,Very High
+Una,85.62,93.25,7.63,673,Low
+Unakoti,85.2,96.08,10.88,506,Moderate
+Unnao,87.8,94.68,6.88,634,Low
+Upper Siang,82.03,92.38,10.35,689,Low
+Upper Sibansiri,82.18,92.62,10.44,684,Low
+Uttar Dinajpur,92.28,105.51,13.23,170,Very High
+Uttar Kannad,89.9,103.96,14.06,245,High
+Uttarkashi,89.39,94.46,5.07,649,Low
+Vadodara,89.82,94.15,4.33,664,Low
+Vaishali,92.55,105.74,13.19,164,Very High
+Valsad,90.96,95.26,4.3,559,Low
+Varanasi,88.78,95.62,6.84,524,Low
+Vellore,94.39,102.8,8.41,264,High
+Vidisha,92.23,106.91,14.68,93,Very High
+Vikarabad,96.76,108.59,11.83,23,Very High
+Viluppuram,93.81,102.26,8.45,289,High
+Virudunagar,93.46,101.84,8.38,307,High
+Vishakhapatnam,96.22,108.35,12.13,26,Very High
+Vizianagaram,97.29,109.5,12.21,6,Very High
+Wanaparthy,97.0,108.83,11.83,15,Very High
+Warangal,95.34,107.08,11.74,79,Very High
+Warangal Rural,95.17,106.89,11.72,96,Very High
+Wardha,91.41,104.88,13.47,217,High
+Washim,91.43,104.9,13.47,215,High
+Wayanad,95.95,107.16,11.21,74,Very High
+West Champaran,93.8,106.94,13.14,88,Very High
+West Delhi,87.67,94.77,7.1,614,Low
+West District,89.0,101.75,12.75,317,High
+West Garo Hills,87.16,95.7,8.54,520,Moderate
+West Godavari,97.62,109.82,12.2,3,Very High
+West Imphal,85.37,99.33,13.96,393,Moderate
+West Kameng,82.03,92.39,10.36,688,Low
+West Karbi Anglong,90.91,99.7,8.79,373,Moderate
+West Khasi Hills,87.75,96.24,8.49,501,Moderate
+West Siang,82.01,92.36,10.35,691,Low
+West Singhbhum,93.89,99.16,5.27,399,Moderate
+West Tripura,86.55,97.53,10.98,461,Moderate
+Wokha,88.5,97.16,8.66,477,Moderate
+Yadadri Bhuvanagiri,95.87,107.63,11.76,56,Very High
+Yadgir,89.37,103.31,13.94,255,High
+Yamunanagar,88.35,95.52,7.17,531,Low
+Yanam,86.75,96.92,10.17,486,Moderate
+Yavatmal,92.03,105.5,13.47,175,High
+Zunheboto,89.71,98.25,8.54,437,Moderate
