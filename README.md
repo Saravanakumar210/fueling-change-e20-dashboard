@@ -57,3 +57,12 @@ City-level and state-level data are shown side by side, not merged, because they
 ---
 
 *Built as an independent data analysis project applying Power BI, DAX, and applied statistics to a live Indian energy-policy question.*
+
+---
+
+## Contact
+
+**Saravana Kumar** — MSc Data Science-The American College,Madurai
+📧 saravanakumar2102003@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/saravana-kumar-88a610396)
+🔗 [GitHub](your-github-profile-url)
